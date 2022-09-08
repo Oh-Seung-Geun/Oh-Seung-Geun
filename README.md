@@ -1,4 +1,7 @@
 ### Hi there 👋
+## My name is OhSeungGeun and my major is AI(Artificial Intelligence).
+I create my profile repository.
+
 
 <!--
 **Oh-Seung-Geun/Oh-Seung-Geun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
